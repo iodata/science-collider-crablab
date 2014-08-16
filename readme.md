@@ -30,7 +30,7 @@ Intracellular dye of 3 cells
 110812  
 Bath application dye, 14 cells identified  
 08A  
--  
+\-  
 20A  
 24A  
 
